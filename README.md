@@ -22,3 +22,8 @@ Building this project solidified my foundational front-end skills, specifically:
 *   Dynamically generating and injecting HTML elements using JavaScript.
 *   Structuring clean, maintainable CSS for interactive UI components.
 *   Replicating a specific UI/UX design mock-up into functional code.
+
+## 💻 How to Run Locally
+1. Clone the repository: `git clone https://github.com/[YourUsername]/[RepoName].git`
+2. Navigate to the project folder.
+3. Open `index.html` in your preferred web browser. No installation or build steps required!
