@@ -24,6 +24,6 @@ Building this project solidified my foundational front-end skills, specifically:
 *   Replicating a specific UI/UX design mock-up into functional code.
 
 ## 💻 How to Run Locally
-1. Clone the repository: `git clone https://github.com/[YourUsername]/[RepoName].git`
+1. Clone the repository: `git clone https://github.com/itsriteshtiwari/Task-2-Build-a-To-Do-List-App-with-JavaScript`
 2. Navigate to the project folder.
 3. Open `index.html` in your preferred web browser. No installation or build steps required!
